@@ -1,0 +1,10 @@
+# config.yml
+site_name: "Mon Portfolio"
+themes:
+  - name: "light"
+    primary_color: "#ffffff"
+    secondary_color: "#000000"
+  - name: "dark"
+    primary_color: "#000000"
+    secondary_color: "#ffffff"
+default_theme: "light"
